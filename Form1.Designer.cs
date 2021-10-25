@@ -1,5 +1,5 @@
 ﻿
-namespace cs_form_framework_net_json_datagridview
+namespace cs_form_net_json_datagridview
 {
     partial class Form1
     {
